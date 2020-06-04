@@ -1,8 +1,6 @@
-OSS_Final_Project_21900167
-2020-1 / ECE20023 – 04 OSS Lab
--------------
-
-## Written by 21900167 Yubin Kim
+# OSS_Final_Project 
+## Handong Dictionary
+### ECE20023 – 04 / Written by 21900167 Yubin Kim
 
 ## **Motivation**
 
@@ -21,9 +19,9 @@ OSS_Final_Project_21900167
 
 ### **Benefit**
 
-####By making this simple website, I believe we can apply this for many ways like we can link this webpage to smart campus app, we can make app separately by using these data, mananging efficiently. Plus we can put some functions that users can search words directly and add some words or explanation. I hope this project can be helpful for global stuent’s life better.
+#### By making this simple website, I believe we can apply this for many ways like we can link this webpage to smart campus app, we can make app separately by using these data, mananging efficiently. Plus we can put some functions that users can search words directly and add some words or explanation. I hope this project can be helpful for global stuent’s life better.
 
-###**References**
+### **References**
 
 * HGU student government: <https://stu.handong.edu/sugang/wp/>
 * HGU: <https://www.handong.edu/>
