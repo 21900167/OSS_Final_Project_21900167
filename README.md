@@ -21,11 +21,11 @@
 
 #### By making this simple website, I believe we can apply this for many ways like we can link this webpage to smart campus app, we can make app separately by using these data, mananging efficiently. Plus we can put some functions that users can search words directly and add some words or explanation. I hope this project can be helpful for global stuent’s life better.
 
-#### Final Project Presentation Adress
+## Final Project Presentation Adress
 
 * Google Drive : https://drive.google.com/drive/u/0/folders/1sCFpEcudcl7-4ELZf6DFldp_WoFiCcAq
 
-### **References*** 
+### **References**
 
 * HGU student government: <https://stu.handong.edu/sugang/wp/>
 * HGU: <https://www.handong.edu/>
